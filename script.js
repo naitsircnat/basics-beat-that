@@ -125,7 +125,7 @@ insults.push("YOU'RE LIKE WI-FI—STRONG START, THEN SUDDENLY GONE.");
 insults.push("YOU LOST SO HARD, EVEN THE GAME FELT AWKWARD.");
 insults.push("CONGRATS! YOU LOST FASTER THAN I EXPECTED.");
 insults.push("THAT WAS LESS A GAME AND MORE A LIVE COMEDY SHOW.");
-insults.push("IF LOSING WERE AN ART, YOU’D BE THE MONA LISA!");
+insults.push("YOUR GAMEPLAY WAS SO OFF, I ALMOST CALLED A DOCTOR!");
 
 var getInsult = function () {
   randomIndex = Math.floor(Math.random() * insults.length);
